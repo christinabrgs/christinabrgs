@@ -1,8 +1,8 @@
-### Hi there 👋 All of my projects are available at https://www.cbtalia.com/
+
 
 ![alt text](https://github.com/christinabrgs/christinabrgs/blob/main/Christina%20Burgos.png?raw=true)
 
-
+### Hi there 👋 All of my projects are available at https://www.cbtalia.com/
 
 
 <!--
