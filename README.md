@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![alt text](https://github.com/christinabrgs/christinabrgs/blob/main/Christina%20Burgos.png?raw=true)
+
+
+
+
 <!--
 **christinabrgs/christinabrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
