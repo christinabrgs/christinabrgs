@@ -3,7 +3,7 @@
 ![alt text](https://github.com/christinabrgs/christinabrgs/blob/main/Christina%20Burgos.png?raw=true)
 
 ### Hi there 👋 All of my projects are available at https://www.cbtalia.com/ <img src="https://media.giphy.com/media/oHoASEzW8HppPux0Si/giphy.gif" width="60px">
-
+### most recent work AI Workkout Application: https://beautiful-bass-earrings.cyclic.app/
 
 <!--
 **christinabrgs/christinabrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
